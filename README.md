@@ -7,7 +7,7 @@ Hello there 👋
 I am <b>Kiran</b>, and here are the few things about me..
 <br />
 <hr>
-<h6>🔭 I’m currently working on Python, Azure, RPA (Power Automate and Automation Anywhere)</h6>
+<h6>🔭 I’m currently working on Python, Django, Azure, RPA (Power Automate and Automation Anywhere)</h6>
 <h6>🌱 I’m currently learning Azure, advance API development using DRF and Power Apps..</h6>
 <h6>👯 I’m looking to collaborate on modern applicatons..</h6>
 <h6>💬 Ask me about anything on Python and RPA</h6>
